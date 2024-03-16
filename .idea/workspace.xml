@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bef70330-8ee3-4fc6-b415-4917d655aa24" name="Changes" comment="Commit Sequence">
-      <change afterPath="$PROJECT_DIR$/src/subSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/secondLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709576103759</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Sequence">
+      <created>1709967910939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709967910939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
