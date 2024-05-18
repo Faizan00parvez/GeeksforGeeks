@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bef70330-8ee3-4fc6-b415-4917d655aa24" name="Changes" comment="Commit Sequence">
-      <change afterPath="$PROJECT_DIR$/src/leftShiftArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayListBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deleteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionOnString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leftKshift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchingInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710604107326</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit Sequence">
+      <created>1710697273664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710697273664</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
